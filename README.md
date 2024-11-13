@@ -53,6 +53,6 @@ With its advanced AI model configuration, Veronica can answer complex questions,
 - "Give me news about technology" - Retrieves news articles about technology.<br>
 
 ***Sample Output***: In the terminal, Veronica will display news titles, descriptions, and provide audible responses for weather, time, and date.
-
+---
 ### Contributing
 Feel free to fork the repository, make changes, and submit a pull request. All contributions are welcome!
