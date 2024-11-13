@@ -21,6 +21,6 @@ With its advanced AI model configuration, Veronica can answer complex questions,
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/veronica-ai-assistant.git](https://github.com/Indra282002/DESKTOP-AI-BOT.git)
+   git clone 
    cd veronica-ai-assistant
 ```
